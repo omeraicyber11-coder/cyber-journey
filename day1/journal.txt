@@ -1,0 +1,4 @@
+Day 1
+Today I officially started my journey into cybersecurity.
+I created my first professional GitHub repository and committed my identity as a cyber researcher.
+My goal is to build tools, not just learn theory.
